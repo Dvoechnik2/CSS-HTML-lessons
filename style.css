@@ -1,6 +1,11 @@
-h1{
+h1 {
     color: yellowgreen;
+    background-color: rgba(104, 26, 99, 0.479);
 }
-h4{
+h4 {
     color: aqua;
+}
+.text1 {
+    background-image: url(IMG_2244.PNG);
+    background-repeat: no-repeat;
 }
