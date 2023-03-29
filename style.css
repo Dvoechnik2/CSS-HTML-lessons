@@ -1,11 +1,13 @@
 h1 {
-    color: yellowgreen;
-    background-color: rgba(104, 26, 99, 0.479);
+    color: rgb(0, 0, 0);
+    background-color: #db7ed47a;
+    height: 50px;
+    width: 150px;
 }
 h4 {
-    color: aqua;
+    color: rgb(0, 38, 255);
 }
 .text1 {
-    background-image: url(IMG_2244.PNG);
-    background-repeat: no-repeat;
+    border: 5px greenyellow solid;
+    border-radius: 5px 50px;
 }
