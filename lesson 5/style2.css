@@ -1,0 +1,25 @@
+p {
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: bold;
+    color: rgb(58, 58, 58);
+    background-color: rgba(247, 205, 97, 0.75);
+    border-radius: 15px;
+    line-height: 20px;
+    text-align: right;
+    text-decoration: underline;
+}
+div {
+    font-family: monospace;
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(253, 235, 168);
+    background-color: rgb(58, 58, 58);
+    border-radius: 15px;
+    line-height: 20px;
+    text-align: left;
+    text-decoration: overline;
+}
+ul {
+    list-style: none;
+}
